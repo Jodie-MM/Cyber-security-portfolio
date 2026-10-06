@@ -6,7 +6,7 @@ I add to it as I work through my course, TryHackMe and Code First Girls.
 
 ---
 
-## 📌 Case studies
+## Case studies
 
 | # | Case study | Skills shown |
 |---|---|---|
@@ -16,24 +16,24 @@ I add to it as I work through my course, TryHackMe and Code First Girls.
 
 ---
 
-## 🎓 NCFE Level 3 Certificate in Cyber Security Practices (Sept–Nov 2026)
+## NCFE Level 3 Certificate in Cyber Security Practices (Sept–Nov 2026)
 
 | Unit | Topic | Status |
 |---|---|---|
-| 1 | Cyber security principles: CIA triad, threat actors, security by design | ✅ Submitted |
-| 2 | Threat intelligence, threat models, malware, social engineering | ✅ Submitted |
-| 3 | Testing, vulnerabilities and controls | ✅ Submitted |
-| 4 | Incident response and post-mortem reports | ⏳ Coming up |
-| 5 | Legislation, ISO standards and ethical conduct | ✅ Submitted |
-| 6 | Professional skills and continuing professional development | ✅ Submitted |
+| 1 | Cyber security principles: CIA triad, threat actors, security by design | Submitted |
+| 2 | Threat intelligence, threat models, malware, social engineering | Submitted |
+| 3 | Testing, vulnerabilities and controls | Submitted |
+| 4 | Incident response and post-mortem reports | Coming up |
+| 5 | Legislation, ISO standards and ethical conduct | Submitted |
+| 6 | Professional skills and continuing professional development | Submitted |
 
 My course answers are with my course provider for marking, so I don't publish them here. The case studies above are separate pieces that I wrote for this portfolio.
 
 ---
 
-## 🧪 TryHackMe
+## TryHackMe
 
-Profile: [tryhackme.com/p/jodiemeloche](https://tryhackme.com/p/jodiemeloche)
+Profile: [tryhackme.com/p/jodiemeloche](https://tryhackme.com/p/jodiemeloche) (10 rooms completed)
 
 | Room | Area | Write-up |
 |---|---|---|
@@ -43,12 +43,16 @@ Profile: [tryhackme.com/p/jodiemeloche](https://tryhackme.com/p/jodiemeloche)
 | [SOC L1 Alert Triage](https://tryhackme.com/room/socl1alerttriage) | Defensive security, SOC | coming soon |
 | [Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports) | Reporting | coming soon |
 | [Report Writing for SOC L2](https://tryhackme.com/room/reportwritingsocl2) | Reporting | coming soon |
+| [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokKx12) | Offensive security basics | coming soon |
+| [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroezn39) | Defensive security basics | coming soon |
+| [Inside a Computer System](https://tryhackme.com/room/insideacomputer) | Computer fundamentals | coming soon |
+| [Careers in Cyber](https://tryhackme.com/room/careersincybersn) | Cyber security roles | coming soon |
 
 My write-ups cover what I learned and how I worked through each room. They never include flags or answers.
 
 ---
 
-## 🏅 Certificates
+## Certificates
 
 | Certificate | Issued by | Date |
 |---|---|---|
@@ -61,7 +65,7 @@ My write-ups cover what I learned and how I worked through each room. They never
 
 ---
 
-## ⚖️ My rules for this repo
+## My rules for this repo
 
 - I only test systems I own, or practice environments that I have permission to use. In the UK this is covered by the Computer Misuse Act 1990.
 - I don't publish flags, answers or anyone's real data.
